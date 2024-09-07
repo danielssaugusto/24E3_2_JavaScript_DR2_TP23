@@ -22,7 +22,7 @@ Com o projeto clonado, agora é possível acessar o diretório dele pela IDE da 
 
 Acesse a IDE VS Code em sua máquina e no campo de extensões `(Crtl + Shift + X)`, procure por "Live Server" publicado por Ritwick Dey.
 
-![Live Server](assets/live-server.png)
+[Live Server](assets/live-server.png)
 
 Após instalado, clique com o botão direito dentro do arquivo HTML e então selecione a opção "Abrir com Live Server".
 Isso permitirá acessar um servidor local em uma nova aba do seu navegador padrão.
@@ -45,4 +45,4 @@ YouTube - Fabio Akita (Um pouco mais avançado 😅):
  - [Entendendo GIT](https://youtu.be/6Czd1Yetaac?feature=shared)
  - [Usando Git Direito | Limpando seus Commits!](https://youtu.be/6OokP-NE49k?feature=shared)
 
- ![GitHub Docs](assets/github-docs.png)
+ [GitHub Docs](assets/github-docs.png)
