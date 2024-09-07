@@ -13,7 +13,7 @@ Repositório para armazenar os projetos desenvolvidos com base nas instruções 
 ```
  - Realize o seguinte comando para clonar o projeto localmente:
  ```bash
- git clone https://github.com/danielssaugusto/24E3_1_HTML-CSS_DR1_TP2.git daniel_augusto_DR1_TP2
+ git clone https://github.com/danielssaugusto/24E3_2_JavaScript_DR2_TP23.git
 ```
 Com o projeto clonado, agora é possível acessar o diretório dele pela IDE da Microsoft VS Code.
 <p>Siga os passos a seguir para navegar entre as questões na Web!<p>
